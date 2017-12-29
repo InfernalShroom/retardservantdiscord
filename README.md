@@ -1,0 +1,2 @@
+# retardservantdiscord
+personal discord bot
